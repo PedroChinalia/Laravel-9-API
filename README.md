@@ -2,7 +2,7 @@
 
 ## Setup
 
-Run ```$ npm install``` to install dependencies
+Run ```$ composer install``` to install dependencies
 
 To initialize the server run ```$ php artisan server```
 
