@@ -8,7 +8,7 @@ To initialize the server run ``` $ php artisan serve ```
 
 To migrate the database run ``` $ php artisan migrate ```
 
-Be sure to name your database  "laravel-api" or change the config in the .env file
+Be sure to name your database  "laravelapi" or change the config in the .env file
 
 # API Commands
 
